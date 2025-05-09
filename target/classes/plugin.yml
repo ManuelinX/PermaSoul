@@ -1,0 +1,23 @@
+main: PS.plugin.PermaSoul
+version: 1.2.3
+name: PermaSoul
+author: Honoriz
+api-version: 1.13
+
+commands:
+  permasoul:
+    description: comando del plugin permasoul
+    aliases:
+      - ps
+  muertes:
+    description: comando para saber tus muertes
+  mobs_kills:
+    description: comando para saber el total de mobs asesinados
+  players_kills:
+    description: comando para saber el total de jugadores asesinados
+  total_kills:
+    description: comando para saber el total de asesinatos realizados
+  current_day:
+    description: comando para saber el dia actual del servidor
+  select_class:
+    description: comando para seleccionar clase
