@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PermaSoul:jar">
+    <output-path>$USER_HOME$/OneDrive/Escritorio/server-minecraft/plugins</output-path>
+    <root id="archive" name="PermaSoul.jar">
+      <element id="module-output" name="PermaSoul" />
+    </root>
+  </artifact>
+</component>

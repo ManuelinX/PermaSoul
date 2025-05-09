@@ -1,0 +1,22 @@
+time: 0
+config:
+  difficulty_changes:
+    infectado_day: 3
+    electroZombie_day: 5
+    guerreroZombie_day: 15
+    capitandelaOleada_day: 20
+    enderShulker_day: 10
+    phantomGiant_day: 12
+    creeperEnvenenado_oneEffect_day: 5
+    creeperEnvenenado_twoEffects_day: 7
+    creeperEnvenenado_threeEffects_day: 10
+    creeperSuperCargado_day: 7
+    creeperPiromanoSuperCargado_day: 15
+    esqueletoInfernal_day: 12
+    esqueletoExplosivo_day: 3
+    esqueletoWitherdelVortice_day: 17
+    maldicionTotem: 10
+  clases:
+    start_select_day: 2
+    end_select_day: 5
+    default: "tanque"
